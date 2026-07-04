@@ -52,9 +52,16 @@ Expected behavior:
 ## Note
 
 - ONCE YOU FIGURE OUT WHERE TO MODIFY THE BALANCE AND CHECKSUM VALIDATION IN THE NFC CARD, PLEASE INFORM US!
-- WE WILL PROVIDE YOU WITH A PROXMARK/FLIPPER TO MODIFY THE DATA ON THE NFC CARD :)
+- WE WILL PROVIDE YOU WITH A FLIPPER TO MODIFY THE DATA ON THE NFC CARD :)
 - https://docs.flipper.net/zero/nfc/read
 - https://docs.flipper.net/zero/qflipper
+
+# How to Use Flipper
+
+- Power: Hold Back Button
+- Read Card: Press Middle Button -> NFC -> Read -> More -> Save
+- Edit Card: qFlipper -> SD Card/nfc > Edit Bytes
+- Write Card: NFC -> Saved -> Write to Initial Card
 
 ## Tips
 
