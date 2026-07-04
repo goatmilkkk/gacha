@@ -99,7 +99,9 @@ Expected behavior:
     - default key is { 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF }
     
     ![https://github.com/smolinde/nfc-tutorial](images/sample_file_colored.png)
+
     *image taken from https://github.com/smolinde/nfc-tutorial
+    
   - Tips
 
     - authenticate sector first
