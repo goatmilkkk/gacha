@@ -4,8 +4,8 @@
 
 The challenge setup:
 
-- You are given a Grey NFC card (specifically MIFARE CLASSIC 1K)
-- The card does not have sufficient balance to buy a gachapon
+- You are given a Grey NFC card (specifically MIFARE CLASSIC 1K) with balance of 67 cents
+- The card does not have sufficient balance to buy a gachapon -> need modify to 670000 cents
 - The objective is to understand how the device checks the card balance, then modify or bypass the check in the challenge environment to trigger a successful prize release
 
 Expected behavior:
