@@ -54,6 +54,7 @@ Expected behavior:
 - ONCE YOU FIGURE OUT WHERE TO MODIFY THE BALANCE AND CHECKSUM VALIDATION IN THE NFC CARD, PLEASE INFORM US!
 - WE WILL PROVIDE YOU WITH A PROXMARK/FLIPPER TO MODIFY THE DATA ON THE NFC CARD :)
 - https://docs.flipper.net/zero/nfc/read
+- https://docs.flipper.net/zero/qflipper
 
 ## Tips
 
